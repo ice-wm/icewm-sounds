@@ -1,2 +1,3 @@
 # icewm-sounds
-sound files for IceWM
+Sound files for IceWM.
+See [releases](https://github.com/ice-wm/icewm-sounds/releases).
